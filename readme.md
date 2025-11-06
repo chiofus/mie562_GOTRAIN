@@ -1,1 +1,0 @@
-Problem instances for the go train schedule optimization problem, the solvers, and the solutions.
