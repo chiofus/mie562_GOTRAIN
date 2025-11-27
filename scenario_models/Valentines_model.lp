@@ -1,6 +1,6 @@
 \ Model Valentines_MIP
 \ LP format - for model browsing. Use MPS format to capture full model detail.
-\ Signature: 0x46ad1e352391c2c5
+\ Signature: 0x46ad1e352391c1ee
 Minimize
   U[K,4_35] + U[K,4_10] + U[K,5_45] + U[K,5_15] + U[K,5_20] + U[K,4_20]
    + U[K,5_30] + U[K,4_55] + U[K,5_55] + U[K,5_25] + U[K,4_05] + U[K,5_50]
