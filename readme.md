@@ -2,9 +2,9 @@ This repository contains the code implementations of both the MIP and Dispatch M
 
 See the file [a relative link](MIE562_Project_MIP_v3.ipynb) for the MIP implementation and generation of relevant figures.
 
-See the file [a relative link](Dispatch_Models.ipynb) for the Dispatch implementation and generation of relevant figures.
+See the file [a relative link](Dispatch.ipynb) for the Dispatch implementation and generation of relevant figures.
 
-See thw file [a relative link] (live_demo.ipynb) for the code used for the live demo presentation.
+See the file [a relative link](live_demo.ipynb) for the code used for the live demo presentation.
 
 
 1. Problem instances for the go train schedule optimization problem, the solvers, and the solutions.
