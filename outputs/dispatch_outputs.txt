@@ -1,0 +1,188 @@
+
+=== Dispatch Schedule for Monday ===
+Scenario: Monday
+Objective Value: 88994
+Computational Time: 0.0053 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Tuesday ===
+Scenario: Tuesday
+Objective Value: 125461
+Computational Time: 0.0027 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Wednesday ===
+Scenario: Wednesday
+Objective Value: 167581
+Computational Time: 0.0035 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Thursday ===
+Scenario: Thursday
+Objective Value: 105615
+Computational Time: 0.0027 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Friday ===
+Scenario: Friday
+Objective Value: 89748
+Computational Time: 0.0031 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Saturday ===
+Scenario: Saturday
+Objective Value: 21766
+Computational Time: 0.0040 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Sunday ===
+Scenario: Sunday
+Objective Value: 23452
+Computational Time: 0.0031 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Christmas ===
+Scenario: Christmas
+Objective Value: 290849
+Computational Time: 0.0029 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for CNE ===
+Scenario: CNE
+Objective Value: 307822
+Computational Time: 0.0034 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Valentines ===
+Scenario: Valentines
+Objective Value: 470843
+Computational Time: 0.0024 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Monday ===
+Scenario: Monday
+Objective Value: 584064
+Computational Time: 0.0042 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Tuesday ===
+Scenario: Tuesday
+Objective Value: 727323
+Computational Time: 0.0030 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Wednesday ===
+Scenario: Wednesday
+Objective Value: 809521
+Computational Time: 0.0028 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Thursday ===
+Scenario: Thursday
+Objective Value: 670260
+Computational Time: 0.0031 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Friday ===
+Scenario: Friday
+Objective Value: 433569
+Computational Time: 0.0037 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Saturday ===
+Scenario: Saturday
+Objective Value: 308251
+Computational Time: 0.0025 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Sunday ===
+Scenario: Sunday
+Objective Value: 278862
+Computational Time: 0.0021 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Christmas ===
+Scenario: Christmas
+Objective Value: 503277
+Computational Time: 0.0024 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for CNE ===
+Scenario: CNE
+Objective Value: 804681
+Computational Time: 0.0030 seconds
+Memory Consumption: 0.00 MB
+
+
+=== Dispatch Schedule for Valentines ===
+Scenario: Valentines
+Objective Value: 594897
+Computational Time: 0.0020 seconds
+Memory Consumption: 0.00 MB
+
+Heuristic Dispatch Performance:
+  Profile Name  Objective Value  Computational Time (seconds)  \
+0       Monday            88994                      0.005284   
+1      Tuesday           125461                      0.002717   
+2    Wednesday           167581                      0.003451   
+3     Thursday           105615                      0.002749   
+4       Friday            89748                      0.003097   
+5     Saturday            21766                      0.004005   
+6       Sunday            23452                      0.003087   
+7    Christmas           290849                      0.002912   
+8          CNE           307822                      0.003377   
+9   Valentines           470843                      0.002429   
+
+   Memory Consumption (bytes)  
+0                           0  
+1                           0  
+2                           0  
+3                           0  
+4                           0  
+5                           0  
+6                           0  
+7                           0  
+8                           0  
+9                           0  
+Standard Dispatch Performance:
+  Profile Name  Objective Value  Computational Time (seconds)  \
+0       Monday           584064                      0.004170   
+1      Tuesday           727323                      0.002995   
+2    Wednesday           809521                      0.002798   
+3     Thursday           670260                      0.003139   
+4       Friday           433569                      0.003651   
+5     Saturday           308251                      0.002480   
+6       Sunday           278862                      0.002061   
+7    Christmas           503277                      0.002368   
+8          CNE           804681                      0.002966   
+9   Valentines           594897                      0.002035   
+
+   Memory Consumption (bytes)  
+0                           0  
+1                        4096  
+2                           0  
+3                           0  
+4                           0  
+5                           0  
+6                        4096  
+7                           0  
+8                           0  
+9                           0  
